@@ -8,13 +8,17 @@ Tic-Tac-Toe is a classic two-player game played on a 3x3 grid. Players take turn
 <br>
 How to Play:   
 <br>
-Choose Your Mark: Decide whether you want to play as "X" or "O".
+<br>
+Choose Your Mark: 
+Decide whether you want to play as "X" or "O".
 Take Turns: Players alternate turns placing their mark on an empty square.
 Win the Game: The first player to get three of their marks in a row wins.
 Draw: If all squares are filled and no player has won, the game is a draw.
 Strategy Tips:
 <br>
-Center Square: The center square is often considered the most strategic position.
+Center Square: 
+<br>
+The center square is often considered the most strategic position.
 Corner Squares: Controlling the corners can help you create winning opportunities.
 Block Your Opponent: Pay attention to your opponent's moves and try to block their potential winning lines.
 Enjoy playing this timeless game of strategy and fun!
